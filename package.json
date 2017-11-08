@@ -1,0 +1,34 @@
+{
+  "name": "js-algorithm-practice",
+  "version": "1.0.0",
+  "description": "Algo practice with TDD",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "tape": "^4.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SurlyMae/algorithm-practice.git"
+  },
+  "keywords": [
+    "TDD",
+    "tape",
+    "javascript",
+    "algorithms",
+    "freecodecamp"
+  ],
+  "author": "Ashly LaMarr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SurlyMae/algorithm-practice/issues"
+  },
+  "homepage": "https://github.com/SurlyMae/algorithm-practice#readme"
+}
